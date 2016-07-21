@@ -28,7 +28,7 @@
 
 ![Rambox](https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/screenshots/mac.png)
 
-## Services available - 33
+## Services available - 34
 
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/whatsapp.png" alt="WhatsApp" title="WhatsApp">
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/messenger.png" alt="Messenger" title="Messenger">
@@ -69,6 +69,7 @@
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/zinc.png" alt="Zinc" title="Zinc">
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/freenode.png" alt="FreeNode" title="FreeNode">
 <img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/mightytext.png" alt="MightyText" title="MightyText">
+<img width="80" align="left" src="https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/icons/hotline.png" alt="Hotline" title="Hotline.io">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

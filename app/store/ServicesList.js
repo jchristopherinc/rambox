@@ -362,6 +362,14 @@ Ext.define('Rambox.store.ServicesList', {
 			,description: 'Text from your computer, sync\'d with your Android phone & number.'
 			,url: 'https://mightytext.net/web/'
 			,type: 'messaging'
+		},
+		{
+			 id: 'hotline'
+			,logo: 'hotline.png'
+			,name: 'Hotline'
+			,description: 'in-app customer support software'
+			,url: 'https://web.hotline.io/'
+			,type: 'messaging'
 		}
 	]
 });
